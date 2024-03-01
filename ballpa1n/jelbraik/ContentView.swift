@@ -49,7 +49,7 @@ struct ContentView: View {
     var title: some View {
         VStack {
             HStack {
-                Text("pissra1n")
+                Text("hairlypussy")
                     .font(.system(size: 50, weight: .black, design: .monospaced))
                     .foregroundColor(fg)
                 Spacer()
