@@ -56,7 +56,7 @@ struct ContentView: View {
             }
             HStack {
             #if os(iOS) || os(tvOS) || os(watchOS)
-                Text("\(UIDevice.current.systemName) 1.0 - 17.4 RIEL Jailbreak")
+                Text("\(UIDevice.current.systemName) 1.0 - 17.4 REAL Jailbreak")
                 #elseif os(macOS)
                 Text("macOS 10.0 - 13.3 'Jailbreak'")
                     .font(.system(.body, design: .monospaced))
@@ -199,7 +199,7 @@ struct ContentView: View {
     
     @ViewBuilder
     var disclaimer: some View {
-        Text("pissra1n jailbreak made by BomberFish\n100% real (no clickbait)")
+        Text("hairlypussy jailbreak made by JOE\n100% real (no clickbait)")
             .foregroundColor(mg)
             .font(.system(size: 10))
             .multilineTextAlignment(.center)
